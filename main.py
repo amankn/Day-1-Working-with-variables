@@ -3,3 +3,7 @@ print(name)
 
 age = input("What is your age? : ")
 print(age)
+
+length = len(name)
+
+print(length)
